@@ -1,2 +1,3 @@
-https://wist.thedev.id
-I deleted some blog posts because I didn't like how they came out lol
+<p>https://wist.thedev.id</p>
+<p>Some blog posts were deleted because I didn't like how they came out.</p>
+<p>Pull requests welcome.</p>
